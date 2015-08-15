@@ -1,5 +1,5 @@
 # SpotifyAPI
-Objective-C data request methods an playlist creation based on Spotify IOS public API
+Objective-C data request methods an playlist creation based on Spotify IOS public API.
 Features:
 
 - User login access, session management and user information request.
