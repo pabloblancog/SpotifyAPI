@@ -6,3 +6,5 @@ Features:
 - Artist search, including artist image URL request.
 - Track search by song name, and Spotify track creation from track name.
 - Spotify playlist creation from an set of tracks.
+
+It requires AFNetworking library (https://github.com/AFNetworking/AFNetworking)
